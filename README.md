@@ -5,7 +5,7 @@
 - <b>User and Group Management With Active Directory</b>
   - [User Management Lab](https://github.com/korieyetter/UserManagmentLab)
 - <b>System Configuration and Management</b>
-  - [System Configuration Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [System Configuration Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Backup and Restore</b>
   - [Backup and Restore Lab](https://github.com/joshmadakor1/Sentinel-Lab)
    
