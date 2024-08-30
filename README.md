@@ -1,6 +1,6 @@
 <h1>Hello, I'm Korie Yetter! <br/><a href="https://www.linkedin.com/in/korieyetter">Future IT Support Analyst 
 
-<h2>👩‍💻 General IT Projects:</h2>
+<h2>👩‍💻 IT Projects:</h2>
 
 - <b>User and Group Management With Active Directory</b>
   - [User Management Lab](https://github.com/korieyetter/UserManagmentLab)
