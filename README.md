@@ -3,7 +3,7 @@
 <h2>👩‍💻 General IT Projects:</h2>
 
 - <b>User and Group Management With Active Directory</b>
-  - [Praciting DS & Algos in Python](https://github.com/korieyetter/UserManagmentLab)
+  - [User Management Lab](https://github.com/korieyetter/UserManagmentLab)
 - <b>System Configuration and Management</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
