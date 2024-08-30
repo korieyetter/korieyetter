@@ -1,4 +1,4 @@
-<h1>Hello, I'm Korie Yetter! <br/><a href="https://github.com/joshmadakor1">Future IT Support Analyst 
+<h1>Hello, I'm Korie Yetter! <br/><a href="https://github.com/korieyetter">Future IT Support Analyst 
 
 <h2>👩‍💻 General IT Projects:</h2>
 
