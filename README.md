@@ -7,7 +7,7 @@
 - <b>System Configuration and Management</b>
   - [System Configuration Lab](https://github.com/korieyetter/SystemConfigurationLab) <b><i></b></i>
 - <b>Backup and Restore</b>
-  - [Backup and Restore Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Backup and Restore Lab](https://github.com/korieyetter/backupandrestore)
    
 - <b>Deploying DNS</b>
   - [Deploying DNS Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
